@@ -164,9 +164,8 @@ flowchart TD
 **اختبار موثّق بعد تحديث الكتالوج:** تعرّف AI على طلب «العادات الذرية» وأعاد `request_type = borrow` والعنوان العربي المطابق. وجدت خطوة Lookup الكتاب (`Found = true`) بحالة `borrowed` لدى `M102`، وأصدر محرك القواعد القرار `RESERVED` للعضو `M101`. كما تم التأكد من تعامل الكود مع `-` كقيمة فارغة.
 
 > **ملاحظة اختبار:** تؤكد هذه التجربة نجاح الاستخراج والبحث واتخاذ القرار، لكنها لا تثبت وحدها اكتمال تحديث سجل الحجز أو وصول رسالة Gmail. ينبغي اختبار تنفيذ المسارات الأربعة من البداية إلى النهاية وتوثيق النتائج.
+## 07 — Zapier Automation
 
-## 07 — Zapier Workflow Link
+### Library Borrowing & Reservation Tracker
 
-**رابط الـZap:** [View Automation on Zapier](PASTE_ZAPIER_SHARE_LINK_HERE)
-
-> استبدلي `PASTE_ZAPIER_SHARE_LINK_HERE` برابط مشاركة الـZap الفعلي، وتأكدي من أن الرابط قابل للفتح لمن سيقيّم المشروع. لا تستخدمي رابط تحرير خاصًا أو تشاركي بيانات أعضاء المكتبة الحقيقية.
+[View Zapier Automation](https://zapier.com/templates/details/library-borrowing-reservation-tracker-9e7088?secret=MTp0ZW1wbGF0ZTptZHh5MVhDZmZ6bkg5bXJpTWlydWFPWWlfUVAtSGpKYUpZcER5dXR5anhnOjlxcHBzMw)
