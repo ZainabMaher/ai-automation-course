@@ -168,4 +168,8 @@ flowchart TD
 
 ### Library Borrowing & Reservation Tracker
 
-[View Zapier Automation](https://zapier.com/templates/details/library-borrowing-reservation-tracker-9e7088?secret=MTp0ZW1wbGF0ZTptZHh5MVhDZmZ6bkg5bXJpTWlydWFPWWlfUVAtSGpKYUpZcER5dXR5anhnOjlxcHBzMw)
+[View Zapier Automation](https://zapier.com/templates/details/library-borrowing-reservation-tracker-9e7088?secret=MTp0ZW1wbGF0ZTptZHh5MVhDZmZ6bkg5bXJpTWlydWFPWWlfUVAtSGpKYUpZcER5dXR5anhnOjlxcHBzMw) 
+
+
+[Googel Form
+](https://docs.google.com/forms/d/e/1FAIpQLSdQtbxIw17i3RIYjeA_DzmwR1mCaQU20clkChkZAP2IY7Qclg/viewform?usp=publish-editor)
